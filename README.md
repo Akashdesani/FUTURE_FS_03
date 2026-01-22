@@ -59,7 +59,7 @@ The project is created strictly for **educational and internship evaluation purp
 
 ## 🚀 Live Demo
 🌐 **Live Website:**  
-(Add your live deployment link here)
+future-fs-03-puce.vercel.app
 
 🎓 Learning Outcomes
 
