@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "A fashionable woman posing",
+      "imageUrl": "https://images.unsplash.com/photo-1553544260-f87e671974ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwZWRpdG9yaWFsfGVufDB8fHx8MTc2OTA0MTcxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion editorial"
+    },
+    {
+      "id": "lookbook1",
+      "description": "Woman in a monochrome city outfit",
+      "imageUrl": "https://images.unsplash.com/photo-1617114912155-8a88e16f3a8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHN0cmVldCUyMHN0eWxlfGVufDB8fHx8MTc2OTA1MjYxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman street style"
+    },
+    {
+      "id": "lookbook2",
+      "description": "Woman in an elegant evening outfit",
+      "imageUrl": "https://images.unsplash.com/photo-1590231583099-24619bbdb077?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMGV2ZW5pbmclMjBmYXNoaW9ufGVufDB8fHx8MTc2OTA1MjYxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman evening fashion"
+    },
+    {
+      "id": "lookbook3",
+      "description": "Woman in a chic casual weekend outfit",
+      "imageUrl": "https://images.unsplash.com/photo-1542366579-a7263534b47a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGNhc3VhbCUyMGNoaWN8ZW58MHx8fHwxNzY5MDUyNjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman casual chic"
+    },
+    {
+      "id": "product1",
+      "description": "A fluid gown",
+      "imageUrl": "https://images.unsplash.com/photo-1565462905097-5e701c31dcfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMGRyZXNzfGVufDB8fHx8MTc2OTAxMzkyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman dress"
+    },
+    {
+      "id": "product2",
+      "description": "A tailored blazer",
+      "imageUrl": "https://images.unsplash.com/photo-1604904612715-47bf9d9bc670?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGJsYXplcnxlbnwwfHx8fDE3NjkwNTExNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman blazer"
+    },
+    {
+      "id": "product3",
+      "description": "A silk blouse",
+      "imageUrl": "https://images.unsplash.com/photo-1694243382431-90d1934d6c3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzaWxrJTIwYmxvdXNlfGVufDB8fHx8MTc2OTAxOTM3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silk blouse"
+    },
+    {
+      "id": "product4",
+      "description": "Wide-leg trousers",
+      "imageUrl": "https://images.unsplash.com/photo-1768803968246-5b8c7d04b722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHRyb3VzZXJzfGVufDB8fHx8MTc2OTA1MTE0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman trousers"
+    },
+    {
+      "id": "product5",
+      "description": "A leather tote bag",
+      "imageUrl": "https://images.unsplash.com/photo-1624687943971-e86af76d57de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsZWF0aGVyJTIwYmFnfGVufDB8fHx8MTc2OTAyODI1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather bag"
+    },
+    {
+      "id": "product6",
+      "description": "A cashmere sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1607032051915-c42d888e0a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXNobWVyZSUyMHN3ZWF0ZXJ8ZW58MHx8fHwxNzY5MDI4MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cashmere sweater"
+    },
+    {
+      "id": "product7",
+      "description": "Minimalist heels",
+      "imageUrl": "https://images.unsplash.com/photo-1539722833765-af2db79db72d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGhlZWxzfGVufDB8fHx8MTc2OTA1MTE0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman heels"
+    },
+    {
+      "id": "product8",
+      "description": "Statement earrings",
+      "imageUrl": "https://images.unsplash.com/photo-1751552147823-e2a844bce504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWFycmluZ3MlMjBqZXdlbHJ5fGVufDB8fHx8MTc2OTA1MTE0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "earrings jewelry"
+    }
+  ]
+}
