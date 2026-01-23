@@ -53,7 +53,6 @@ The project is created strictly for **educational and internship evaluation purp
 ## 🤖 AI Tools Used
 - **Durable AI** – Used for initial website structure, layout inspiration, and AI-assisted rebranding
 - **Adobe Firefly** – Used for AI-generated visual design inspiration, creative assets, and branding ideas
-- **Firebase Studio** – Used for development, refinement, and deployment workflow
 
 ---
 
